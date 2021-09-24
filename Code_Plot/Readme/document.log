@@ -1,0 +1,630 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.8.8)  16 OCT 2020 19:59
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**document.tex
+(./document.tex
+LaTeX2e <2018-12-01>
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/epstopdf.sty
+Package: epstopdf 2016/05/15 v2.6 Conversion with epstopdf on the fly (HO)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+)))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+\captionmargin=\dimen105
+\captionmargin@=\dimen106
+\captionwidth=\dimen107
+\caption@tempdima=\dimen108
+\caption@indent=\dimen109
+\caption@parindent=\dimen110
+\caption@hangindent=\dimen111
+)
+\c@caption@flags=\count88
+\c@ContinuedFloat=\count89
+)
+\c@KVtest=\count90
+\sf@farskip=\skip43
+\sf@captopadj=\dimen112
+\sf@capskip=\skip44
+\sf@nearskip=\skip45
+\c@subfigure=\count91
+\c@subfigure@save=\count92
+\c@lofdepth=\count93
+\c@subtable=\count94
+\c@subtable@save=\count95
+\c@lotdepth=\count96
+\sf@top=\skip46
+\sf@bottom=\skip47
+)
+(./document.aux)
+\openout1 = `document.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+
+(/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count97
+\scratchdimen=\dimen113
+\scratchbox=\box27
+\nofMPsegments=\count98
+\nofMParguments=\count99
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count100
+\MPscratchDim=\dimen114
+\MPnumerator=\count101
+\makeMPintoPDFobject=\count102
+\everyMPtoPDFconversion=\toks16
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 16.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 16.
+<name.png, id=1, 319.1925pt x 118.4425pt>
+File: name.png Graphic file (type png)
+<use name.png>
+Package pdftex.def Info: name.png  used on input line 20.
+(pdftex.def)             Requested size: 252.94499pt x 93.86131pt.
+ [1
+
+{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./name.
+png>]
+<../1PointProcess/plot/pointprocess_Weekday.png, id=12, 2459.1875pt x 3151.775p
+t>
+File: ../1PointProcess/plot/pointprocess_Weekday.png Graphic file (type png)
+<use ../1PointProcess/plot/pointprocess_Weekday.png>
+Package pdftex.def Info: ../1PointProcess/plot/pointprocess_Weekday.png  used o
+n input line 46.
+(pdftex.def)             Requested size: 199.16928pt x 255.22505pt.
+<../1PointProcess/plot/pointprocess_Holiday.png, id=13, 2459.1875pt x 3151.775p
+t>
+File: ../1PointProcess/plot/pointprocess_Holiday.png Graphic file (type png)
+<use ../1PointProcess/plot/pointprocess_Holiday.png>
+Package pdftex.def Info: ../1PointProcess/plot/pointprocess_Holiday.png  used o
+n input line 47.
+(pdftex.def)             Requested size: 199.16928pt x 255.22505pt.
+
+Overfull \hbox (53.33856pt too wide) in paragraph at lines 46--48
+ [][] 
+ []
+
+<../1PointProcess/plot/intensity_Weekday.png, id=14, 2459.1875pt x 501.875pt>
+File: ../1PointProcess/plot/intensity_Weekday.png Graphic file (type png)
+<use ../1PointProcess/plot/intensity_Weekday.png>
+Package pdftex.def Info: ../1PointProcess/plot/intensity_Weekday.png  used on i
+nput line 55.
+(pdftex.def)             Requested size: 199.16928pt x 40.64093pt.
+<../1PointProcess/plot/intensity_Holiday.png, id=15, 2459.1875pt x 501.875pt>
+File: ../1PointProcess/plot/intensity_Holiday.png Graphic file (type png)
+<use ../1PointProcess/plot/intensity_Holiday.png>
+Package pdftex.def Info: ../1PointProcess/plot/intensity_Holiday.png  used on i
+nput line 56.
+(pdftex.def)             Requested size: 199.16928pt x 40.64093pt.
+
+Overfull \hbox (53.33856pt too wide) in paragraph at lines 55--57
+ [][] 
+ []
+
+[2 <../1PointProcess/plot/pointprocess_Weekday.png (PNG copy)> <../1PointProces
+s/plot/pointprocess_Holiday.png (PNG copy)> <../1PointProcess/plot/intensity_We
+ekday.png (PNG copy)> <../1PointProcess/plot/intensity_Holiday.png (PNG copy)>]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 68.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 68.
+Package epstopdf Info: Source file: <../2Fittedy/plot/weekday_7/fitted_y_cluste
+r7_1.eps>
+(epstopdf)                    date: 2020-10-09 12:00:13
+(epstopdf)                    size: 102269 bytes
+(epstopdf)             Output file: <../2Fittedy/plot/weekday_7/fitted_y_cluste
+r7_1-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-10-16 12:56:39
+(epstopdf)                    size: 107145 bytes
+(epstopdf)             Command: <repstopdf --outfile=../2Fittedy/plot/weekday_7
+/fitted_y_cluster7_1-eps-converted-to.pdf ../2Fittedy/plot/weekday_7/fitted_y_c
+luster7_1.eps>
+(epstopdf)             \includegraphics on input line 76.
+Package epstopdf Info: Output file is already uptodate.
+<../2Fittedy/plot/weekday_7/fitted_y_cluster7_1-eps-converted-to.pdf, id=20, 57
+9.16376pt x 579.16376pt>
+File: ../2Fittedy/plot/weekday_7/fitted_y_cluster7_1-eps-converted-to.pdf Graph
+ic file (type pdf)
+<use ../2Fittedy/plot/weekday_7/fitted_y_cluster7_1-eps-converted-to.pdf>
+Package pdftex.def Info: ../2Fittedy/plot/weekday_7/fitted_y_cluster7_1-eps-con
+verted-to.pdf  used on input line 76.
+(pdftex.def)             Requested size: 57.91975pt x 57.91975pt.
+Package epstopdf Info: Source file: <../2Fittedy/plot/weekday_7/fitted_y_cluste
+r7_2.eps>
+(epstopdf)                    date: 2020-10-09 12:00:14
+(epstopdf)                    size: 109283 bytes
+(epstopdf)             Output file: <../2Fittedy/plot/weekday_7/fitted_y_cluste
+r7_2-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-10-16 12:57:59
+(epstopdf)                    size: 114396 bytes
+(epstopdf)             Command: <repstopdf --outfile=../2Fittedy/plot/weekday_7
+/fitted_y_cluster7_2-eps-converted-to.pdf ../2Fittedy/plot/weekday_7/fitted_y_c
+luster7_2.eps>
+(epstopdf)             \includegraphics on input line 78.
+Package epstopdf Info: Output file is already uptodate.
+<../2Fittedy/plot/weekday_7/fitted_y_cluster7_2-eps-converted-to.pdf, id=21, 57
+9.16376pt x 579.16376pt>
+File: ../2Fittedy/plot/weekday_7/fitted_y_cluster7_2-eps-converted-to.pdf Graph
+ic file (type pdf)
+<use ../2Fittedy/plot/weekday_7/fitted_y_cluster7_2-eps-converted-to.pdf>
+Package pdftex.def Info: ../2Fittedy/plot/weekday_7/fitted_y_cluster7_2-eps-con
+verted-to.pdf  used on input line 78.
+(pdftex.def)             Requested size: 57.91975pt x 57.91975pt.
+Package epstopdf Info: Source file: <../2Fittedy/plot/weekday_7/fitted_y_cluste
+r7_3.eps>
+(epstopdf)                    date: 2020-10-09 12:00:15
+(epstopdf)                    size: 117440 bytes
+(epstopdf)             Output file: <../2Fittedy/plot/weekday_7/fitted_y_cluste
+r7_3-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-10-16 12:57:59
+(epstopdf)                    size: 122036 bytes
+(epstopdf)             Command: <repstopdf --outfile=../2Fittedy/plot/weekday_7
+/fitted_y_cluster7_3-eps-converted-to.pdf ../2Fittedy/plot/weekday_7/fitted_y_c
+luster7_3.eps>
+(epstopdf)             \includegraphics on input line 80.
+Package epstopdf Info: Output file is already uptodate.
+<../2Fittedy/plot/weekday_7/fitted_y_cluster7_3-eps-converted-to.pdf, id=22, 57
+9.16376pt x 579.16376pt>
+File: ../2Fittedy/plot/weekday_7/fitted_y_cluster7_3-eps-converted-to.pdf Graph
+ic file (type pdf)
+<use ../2Fittedy/plot/weekday_7/fitted_y_cluster7_3-eps-converted-to.pdf>
+Package pdftex.def Info: ../2Fittedy/plot/weekday_7/fitted_y_cluster7_3-eps-con
+verted-to.pdf  used on input line 80.
+(pdftex.def)             Requested size: 57.91975pt x 57.91975pt.
+Package epstopdf Info: Source file: <../2Fittedy/plot/weekday_7/fitted_y_cluste
+r7_4.eps>
+(epstopdf)                    date: 2020-10-09 12:00:16
+(epstopdf)                    size: 104002 bytes
+(epstopdf)             Output file: <../2Fittedy/plot/weekday_7/fitted_y_cluste
+r7_4-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-10-16 12:58:00
+(epstopdf)                    size: 106465 bytes
+(epstopdf)             Command: <repstopdf --outfile=../2Fittedy/plot/weekday_7
+/fitted_y_cluster7_4-eps-converted-to.pdf ../2Fittedy/plot/weekday_7/fitted_y_c
+luster7_4.eps>
+(epstopdf)             \includegraphics on input line 82.
+Package epstopdf Info: Output file is already uptodate.
+<../2Fittedy/plot/weekday_7/fitted_y_cluster7_4-eps-converted-to.pdf, id=23, 57
+9.16376pt x 579.16376pt>
+File: ../2Fittedy/plot/weekday_7/fitted_y_cluster7_4-eps-converted-to.pdf Graph
+ic file (type pdf)
+<use ../2Fittedy/plot/weekday_7/fitted_y_cluster7_4-eps-converted-to.pdf>
+Package pdftex.def Info: ../2Fittedy/plot/weekday_7/fitted_y_cluster7_4-eps-con
+verted-to.pdf  used on input line 82.
+(pdftex.def)             Requested size: 57.91975pt x 57.91975pt.
+Package epstopdf Info: Source file: <../2Fittedy/plot/weekday_7/fitted_y_cluste
+r7_5.eps>
+(epstopdf)                    date: 2020-10-09 12:00:18
+(epstopdf)                    size: 79573 bytes
+(epstopdf)             Output file: <../2Fittedy/plot/weekday_7/fitted_y_cluste
+r7_5-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-10-16 12:58:00
+(epstopdf)                    size: 83748 bytes
+(epstopdf)             Command: <repstopdf --outfile=../2Fittedy/plot/weekday_7
+/fitted_y_cluster7_5-eps-converted-to.pdf ../2Fittedy/plot/weekday_7/fitted_y_c
+luster7_5.eps>
+(epstopdf)             \includegraphics on input line 84.
+Package epstopdf Info: Output file is already uptodate.
+<../2Fittedy/plot/weekday_7/fitted_y_cluster7_5-eps-converted-to.pdf, id=24, 57
+9.16376pt x 579.16376pt>
+File: ../2Fittedy/plot/weekday_7/fitted_y_cluster7_5-eps-converted-to.pdf Graph
+ic file (type pdf)
+<use ../2Fittedy/plot/weekday_7/fitted_y_cluster7_5-eps-converted-to.pdf>
+Package pdftex.def Info: ../2Fittedy/plot/weekday_7/fitted_y_cluster7_5-eps-con
+verted-to.pdf  used on input line 84.
+(pdftex.def)             Requested size: 57.91975pt x 57.91975pt.
+Package epstopdf Info: Source file: <../2Fittedy/plot/weekday_7/fitted_y_cluste
+r7_6.eps>
+(epstopdf)                    date: 2020-10-09 12:00:19
+(epstopdf)                    size: 98422 bytes
+(epstopdf)             Output file: <../2Fittedy/plot/weekday_7/fitted_y_cluste
+r7_6-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-10-16 12:58:01
+(epstopdf)                    size: 102963 bytes
+(epstopdf)             Command: <repstopdf --outfile=../2Fittedy/plot/weekday_7
+/fitted_y_cluster7_6-eps-converted-to.pdf ../2Fittedy/plot/weekday_7/fitted_y_c
+luster7_6.eps>
+(epstopdf)             \includegraphics on input line 86.
+Package epstopdf Info: Output file is already uptodate.
+<../2Fittedy/plot/weekday_7/fitted_y_cluster7_6-eps-converted-to.pdf, id=25, 57
+9.16376pt x 579.16376pt>
+File: ../2Fittedy/plot/weekday_7/fitted_y_cluster7_6-eps-converted-to.pdf Graph
+ic file (type pdf)
+<use ../2Fittedy/plot/weekday_7/fitted_y_cluster7_6-eps-converted-to.pdf>
+Package pdftex.def Info: ../2Fittedy/plot/weekday_7/fitted_y_cluster7_6-eps-con
+verted-to.pdf  used on input line 86.
+(pdftex.def)             Requested size: 57.91975pt x 57.91975pt.
+Package epstopdf Info: Source file: <../2Fittedy/plot/weekday_7/fitted_y_cluste
+r7_7.eps>
+(epstopdf)                    date: 2020-10-09 12:00:20
+(epstopdf)                    size: 137680 bytes
+(epstopdf)             Output file: <../2Fittedy/plot/weekday_7/fitted_y_cluste
+r7_7-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-10-16 12:58:01
+(epstopdf)                    size: 214318 bytes
+(epstopdf)             Command: <repstopdf --outfile=../2Fittedy/plot/weekday_7
+/fitted_y_cluster7_7-eps-converted-to.pdf ../2Fittedy/plot/weekday_7/fitted_y_c
+luster7_7.eps>
+(epstopdf)             \includegraphics on input line 88.
+Package epstopdf Info: Output file is already uptodate.
+<../2Fittedy/plot/weekday_7/fitted_y_cluster7_7-eps-converted-to.pdf, id=26, 57
+9.16376pt x 579.16376pt>
+File: ../2Fittedy/plot/weekday_7/fitted_y_cluster7_7-eps-converted-to.pdf Graph
+ic file (type pdf)
+<use ../2Fittedy/plot/weekday_7/fitted_y_cluster7_7-eps-converted-to.pdf>
+Package pdftex.def Info: ../2Fittedy/plot/weekday_7/fitted_y_cluster7_7-eps-con
+verted-to.pdf  used on input line 88.
+(pdftex.def)             Requested size: 57.91975pt x 57.91975pt.
+Package epstopdf Info: Source file: <../2Fittedy/plot/weekday_7/remove_data.eps
+>
+(epstopdf)                    date: 2020-10-09 12:00:22
+(epstopdf)                    size: 403248 bytes
+(epstopdf)             Output file: <../2Fittedy/plot/weekday_7/remove_data-eps
+-converted-to.pdf>
+(epstopdf)                    date: 2020-10-16 12:58:02
+(epstopdf)                    size: 31924 bytes
+(epstopdf)             Command: <repstopdf --outfile=../2Fittedy/plot/weekday_7
+/remove_data-eps-converted-to.pdf ../2Fittedy/plot/weekday_7/remove_data.eps>
+(epstopdf)             \includegraphics on input line 90.
+Package epstopdf Info: Output file is already uptodate.
+<../2Fittedy/plot/weekday_7/remove_data-eps-converted-to.pdf, id=27, 529.98pt x
+ 544.0325pt>
+File: ../2Fittedy/plot/weekday_7/remove_data-eps-converted-to.pdf Graphic file 
+(type pdf)
+<use ../2Fittedy/plot/weekday_7/remove_data-eps-converted-to.pdf>
+Package pdftex.def Info: ../2Fittedy/plot/weekday_7/remove_data-eps-converted-t
+o.pdf  used on input line 90.
+(pdftex.def)             Requested size: 53.0011pt x 54.40643pt.
+Package epstopdf Info: Source file: <../2Fittedy/plot/holiday_5/fitted_y_cluste
+r5_1.eps>
+(epstopdf)                    date: 2020-10-09 12:00:23
+(epstopdf)                    size: 106019 bytes
+(epstopdf)             Output file: <../2Fittedy/plot/holiday_5/fitted_y_cluste
+r5_1-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-10-16 12:58:33
+(epstopdf)                    size: 177726 bytes
+(epstopdf)             Command: <repstopdf --outfile=../2Fittedy/plot/holiday_5
+/fitted_y_cluster5_1-eps-converted-to.pdf ../2Fittedy/plot/holiday_5/fitted_y_c
+luster5_1.eps>
+(epstopdf)             \includegraphics on input line 104.
+Package epstopdf Info: Output file is already uptodate.
+<../2Fittedy/plot/holiday_5/fitted_y_cluster5_1-eps-converted-to.pdf, id=28, 57
+9.16376pt x 579.16376pt>
+File: ../2Fittedy/plot/holiday_5/fitted_y_cluster5_1-eps-converted-to.pdf Graph
+ic file (type pdf)
+<use ../2Fittedy/plot/holiday_5/fitted_y_cluster5_1-eps-converted-to.pdf>
+Package pdftex.def Info: ../2Fittedy/plot/holiday_5/fitted_y_cluster5_1-eps-con
+verted-to.pdf  used on input line 104.
+(pdftex.def)             Requested size: 57.91975pt x 57.91975pt.
+Package epstopdf Info: Source file: <../2Fittedy/plot/holiday_5/fitted_y_cluste
+r5_2.eps>
+(epstopdf)                    date: 2020-10-09 12:00:24
+(epstopdf)                    size: 97401 bytes
+(epstopdf)             Output file: <../2Fittedy/plot/holiday_5/fitted_y_cluste
+r5_2-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-10-16 12:59:06
+(epstopdf)                    size: 101231 bytes
+(epstopdf)             Command: <repstopdf --outfile=../2Fittedy/plot/holiday_5
+/fitted_y_cluster5_2-eps-converted-to.pdf ../2Fittedy/plot/holiday_5/fitted_y_c
+luster5_2.eps>
+(epstopdf)             \includegraphics on input line 106.
+Package epstopdf Info: Output file is already uptodate.
+<../2Fittedy/plot/holiday_5/fitted_y_cluster5_2-eps-converted-to.pdf, id=29, 57
+9.16376pt x 579.16376pt>
+File: ../2Fittedy/plot/holiday_5/fitted_y_cluster5_2-eps-converted-to.pdf Graph
+ic file (type pdf)
+<use ../2Fittedy/plot/holiday_5/fitted_y_cluster5_2-eps-converted-to.pdf>
+Package pdftex.def Info: ../2Fittedy/plot/holiday_5/fitted_y_cluster5_2-eps-con
+verted-to.pdf  used on input line 106.
+(pdftex.def)             Requested size: 57.91975pt x 57.91975pt.
+Package epstopdf Info: Source file: <../2Fittedy/plot/holiday_5/fitted_y_cluste
+r5_3.eps>
+(epstopdf)                    date: 2020-10-09 12:00:25
+(epstopdf)                    size: 111845 bytes
+(epstopdf)             Output file: <../2Fittedy/plot/holiday_5/fitted_y_cluste
+r5_3-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-10-16 12:59:07
+(epstopdf)                    size: 115237 bytes
+(epstopdf)             Command: <repstopdf --outfile=../2Fittedy/plot/holiday_5
+/fitted_y_cluster5_3-eps-converted-to.pdf ../2Fittedy/plot/holiday_5/fitted_y_c
+luster5_3.eps>
+(epstopdf)             \includegraphics on input line 108.
+Package epstopdf Info: Output file is already uptodate.
+<../2Fittedy/plot/holiday_5/fitted_y_cluster5_3-eps-converted-to.pdf, id=30, 57
+9.16376pt x 579.16376pt>
+File: ../2Fittedy/plot/holiday_5/fitted_y_cluster5_3-eps-converted-to.pdf Graph
+ic file (type pdf)
+<use ../2Fittedy/plot/holiday_5/fitted_y_cluster5_3-eps-converted-to.pdf>
+Package pdftex.def Info: ../2Fittedy/plot/holiday_5/fitted_y_cluster5_3-eps-con
+verted-to.pdf  used on input line 108.
+(pdftex.def)             Requested size: 57.91975pt x 57.91975pt.
+Package epstopdf Info: Source file: <../2Fittedy/plot/holiday_5/fitted_y_cluste
+r5_4.eps>
+(epstopdf)                    date: 2020-10-09 12:00:26
+(epstopdf)                    size: 92934 bytes
+(epstopdf)             Output file: <../2Fittedy/plot/holiday_5/fitted_y_cluste
+r5_4-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-10-16 12:59:07
+(epstopdf)                    size: 96786 bytes
+(epstopdf)             Command: <repstopdf --outfile=../2Fittedy/plot/holiday_5
+/fitted_y_cluster5_4-eps-converted-to.pdf ../2Fittedy/plot/holiday_5/fitted_y_c
+luster5_4.eps>
+(epstopdf)             \includegraphics on input line 110.
+Package epstopdf Info: Output file is already uptodate.
+<../2Fittedy/plot/holiday_5/fitted_y_cluster5_4-eps-converted-to.pdf, id=31, 57
+9.16376pt x 579.16376pt>
+File: ../2Fittedy/plot/holiday_5/fitted_y_cluster5_4-eps-converted-to.pdf Graph
+ic file (type pdf)
+<use ../2Fittedy/plot/holiday_5/fitted_y_cluster5_4-eps-converted-to.pdf>
+Package pdftex.def Info: ../2Fittedy/plot/holiday_5/fitted_y_cluster5_4-eps-con
+verted-to.pdf  used on input line 110.
+(pdftex.def)             Requested size: 57.91975pt x 57.91975pt.
+Package epstopdf Info: Source file: <../2Fittedy/plot/holiday_5/fitted_y_cluste
+r5_5.eps>
+(epstopdf)                    date: 2020-10-09 12:00:27
+(epstopdf)                    size: 80510 bytes
+(epstopdf)             Output file: <../2Fittedy/plot/holiday_5/fitted_y_cluste
+r5_5-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-10-16 12:59:08
+(epstopdf)                    size: 83832 bytes
+(epstopdf)             Command: <repstopdf --outfile=../2Fittedy/plot/holiday_5
+/fitted_y_cluster5_5-eps-converted-to.pdf ../2Fittedy/plot/holiday_5/fitted_y_c
+luster5_5.eps>
+(epstopdf)             \includegraphics on input line 112.
+Package epstopdf Info: Output file is already uptodate.
+<../2Fittedy/plot/holiday_5/fitted_y_cluster5_5-eps-converted-to.pdf, id=32, 57
+9.16376pt x 579.16376pt>
+File: ../2Fittedy/plot/holiday_5/fitted_y_cluster5_5-eps-converted-to.pdf Graph
+ic file (type pdf)
+<use ../2Fittedy/plot/holiday_5/fitted_y_cluster5_5-eps-converted-to.pdf>
+Package pdftex.def Info: ../2Fittedy/plot/holiday_5/fitted_y_cluster5_5-eps-con
+verted-to.pdf  used on input line 112.
+(pdftex.def)             Requested size: 57.91975pt x 57.91975pt.
+Package epstopdf Info: Source file: <../2Fittedy/plot/weekday_7/remove_data.eps
+>
+(epstopdf)                    date: 2020-10-09 12:00:22
+(epstopdf)                    size: 403248 bytes
+(epstopdf)             Output file: <../2Fittedy/plot/weekday_7/remove_data-eps
+-converted-to.pdf>
+(epstopdf)                    date: 2020-10-16 12:58:02
+(epstopdf)                    size: 31924 bytes
+(epstopdf)             Command: <repstopdf --outfile=../2Fittedy/plot/weekday_7
+/remove_data-eps-converted-to.pdf ../2Fittedy/plot/weekday_7/remove_data.eps>
+(epstopdf)             \includegraphics on input line 114.
+Package epstopdf Info: Output file is already uptodate.
+File: ../2Fittedy/plot/weekday_7/remove_data-eps-converted-to.pdf Graphic file 
+(type pdf)
+<use ../2Fittedy/plot/weekday_7/remove_data-eps-converted-to.pdf>
+Package pdftex.def Info: ../2Fittedy/plot/weekday_7/remove_data-eps-converted-t
+o.pdf  used on input line 114.
+(pdftex.def)             Requested size: 53.0011pt x 54.40643pt.
+
+Overfull \hbox (10.18533pt too wide) in paragraph at lines 134--135
+[]\OT1/cmr/m/n/10 The in-put data are: de-tail[]weekday[]7.mat ($\OML/cmm/m/it/
+10 K[] \OT1/cmr/m/n/10 = 7$) and de-tail[]holiday[]5.mat
+ []
+
+Package epstopdf Info: Source file: <../3Heatmap/plot/heatmap_gray_grid_detail_
+weekday_7.eps>
+(epstopdf)                    date: 2020-10-09 11:00:47
+(epstopdf)                    size: 193669 bytes
+(epstopdf)             Output file: <../3Heatmap/plot/heatmap_gray_grid_detail_
+weekday_7-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-10-16 13:00:53
+(epstopdf)                    size: 81827 bytes
+(epstopdf)             Command: <repstopdf --outfile=../3Heatmap/plot/heatmap_g
+ray_grid_detail_weekday_7-eps-converted-to.pdf ../3Heatmap/plot/heatmap_gray_gr
+id_detail_weekday_7.eps>
+(epstopdf)             \includegraphics on input line 140.
+Package epstopdf Info: Output file is already uptodate.
+<../3Heatmap/plot/heatmap_gray_grid_detail_weekday_7-eps-converted-to.pdf, id=3
+3, 2097.8375pt x 2144.01pt>
+File: ../3Heatmap/plot/heatmap_gray_grid_detail_weekday_7-eps-converted-to.pdf 
+Graphic file (type pdf)
+<use ../3Heatmap/plot/heatmap_gray_grid_detail_weekday_7-eps-converted-to.pdf>
+Package pdftex.def Info: ../3Heatmap/plot/heatmap_gray_grid_detail_weekday_7-ep
+s-converted-to.pdf  used on input line 140.
+(pdftex.def)             Requested size: 199.16928pt x 203.5522pt.
+Package epstopdf Info: Source file: <../3Heatmap/plot/heatmap_gray_grid_detail_
+holiday_5.eps>
+(epstopdf)                    date: 2020-10-09 11:00:50
+(epstopdf)                    size: 177066 bytes
+(epstopdf)             Output file: <../3Heatmap/plot/heatmap_gray_grid_detail_
+holiday_5-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-10-16 13:00:31
+(epstopdf)                    size: 73024 bytes
+(epstopdf)             Command: <repstopdf --outfile=../3Heatmap/plot/heatmap_g
+ray_grid_detail_holiday_5-eps-converted-to.pdf ../3Heatmap/plot/heatmap_gray_gr
+id_detail_holiday_5.eps>
+(epstopdf)             \includegraphics on input line 141.
+Package epstopdf Info: Output file is already uptodate.
+<../3Heatmap/plot/heatmap_gray_grid_detail_holiday_5-eps-converted-to.pdf, id=3
+4, 2097.8375pt x 2144.01pt>
+File: ../3Heatmap/plot/heatmap_gray_grid_detail_holiday_5-eps-converted-to.pdf 
+Graphic file (type pdf)
+<use ../3Heatmap/plot/heatmap_gray_grid_detail_holiday_5-eps-converted-to.pdf>
+Package pdftex.def Info: ../3Heatmap/plot/heatmap_gray_grid_detail_holiday_5-ep
+s-converted-to.pdf  used on input line 141.
+(pdftex.def)             Requested size: 199.16928pt x 203.5522pt.
+
+Overfull \hbox (53.33856pt too wide) in paragraph at lines 140--142
+ [][] 
+ []
+
+[3 <../2Fittedy/plot/weekday_7/fitted_y_cluster7_1-eps-converted-to.pdf> <../2F
+ittedy/plot/weekday_7/fitted_y_cluster7_2-eps-converted-to.pdf> <../2Fittedy/pl
+ot/weekday_7/fitted_y_cluster7_3-eps-converted-to.pdf> <../2Fittedy/plot/weekda
+y_7/fitted_y_cluster7_4-eps-converted-to.pdf> <../2Fittedy/plot/weekday_7/fitte
+d_y_cluster7_5-eps-converted-to.pdf> <../2Fittedy/plot/weekday_7/fitted_y_clust
+er7_6-eps-converted-to.pdf> <../2Fittedy/plot/weekday_7/fitted_y_cluster7_7-eps
+-converted-to.pdf> <../2Fittedy/plot/weekday_7/remove_data-eps-converted-to.pdf
+> <../2Fittedy/plot/holiday_5/fitted_y_cluster5_1-eps-converted-to.pdf> <../2Fi
+ttedy/plot/holiday_5/fitted_y_cluster5_2-eps-converted-to.pdf> <../2Fittedy/plo
+t/holiday_5/fitted_y_cluster5_3-eps-converted-to.pdf> <../2Fittedy/plot/holiday
+_5/fitted_y_cluster5_4-eps-converted-to.pdf> <../2Fittedy/plot/holiday_5/fitted
+_y_cluster5_5-eps-converted-to.pdf>]
+Overfull \hbox (10.18533pt too wide) in paragraph at lines 151--152
+[]\OT1/cmr/m/n/10 The in-put data are: de-tail[]weekday[]7.mat ($\OML/cmm/m/it/
+10 K[] \OT1/cmr/m/n/10 = 7$) and de-tail[]holiday[]5.mat
+ []
+
+<../4LocationCluster/plot/weekday_7.png, id=93, 2455.1725pt x 240.9pt>
+File: ../4LocationCluster/plot/weekday_7.png Graphic file (type png)
+<use ../4LocationCluster/plot/weekday_7.png>
+Package pdftex.def Info: ../4LocationCluster/plot/weekday_7.png  used on input 
+line 158.
+(pdftex.def)             Requested size: 199.16928pt x 19.54073pt.
+<../4LocationCluster/plot/holiday_5.png, id=94, 2455.1725pt x 240.9pt>
+File: ../4LocationCluster/plot/holiday_5.png Graphic file (type png)
+<use ../4LocationCluster/plot/holiday_5.png>
+Package pdftex.def Info: ../4LocationCluster/plot/holiday_5.png  used on input 
+line 159.
+(pdftex.def)             Requested size: 199.16928pt x 19.54073pt.
+
+Overfull \hbox (53.33856pt too wide) in paragraph at lines 158--160
+ [][] 
+ []
+
+[4 <../3Heatmap/plot/heatmap_gray_grid_detail_weekday_7-eps-converted-to.pdf> <
+../3Heatmap/plot/heatmap_gray_grid_detail_holiday_5-eps-converted-to.pdf> <../4
+LocationCluster/plot/weekday_7.png (PNG copy)> <../4LocationCluster/plot/holida
+y_5.png (PNG copy)>] [5] (./document.aux) ) 
+Here is how much of TeX's memory you used:
+ 2807 strings out of 492616
+ 49906 string characters out of 6129482
+ 114819 words of memory out of 5000000
+ 6703 multiletter control sequences out of 15000+600000
+ 4544 words of font info for 17 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 44i,12n,49p,322b,404s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2019/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2019/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2019/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2019/texmf-dist/font
+s/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2019/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmsy10.pfb>
+Output written on document.pdf (5 pages, 2292317 bytes).
+PDF statistics:
+ 135 PDF objects out of 1000 (max. 8388607)
+ 67 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 111 words of extra memory for PDF output out of 10000 (max. 10000000)
+
